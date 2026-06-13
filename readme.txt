@@ -1,7 +1,7 @@
 BIS202 Assignment 2 - YOLOv5 Object Detection System
 
 Name: Syed Kaif
-Student Number: 
+Student Number: 240413
 
 PROJECT DESCRIPTION:
 A cloud-based object detection system using YOLOv5 on AWS.
